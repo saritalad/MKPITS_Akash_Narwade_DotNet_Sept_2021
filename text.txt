@@ -2,6 +2,5 @@ history
 geography
 science
 maths 
-
-
+bee mca bsc
 
