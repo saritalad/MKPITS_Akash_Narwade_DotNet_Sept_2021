@@ -1,3 +1,7 @@
 history
 geography
+science
+maths 
+
+
 
