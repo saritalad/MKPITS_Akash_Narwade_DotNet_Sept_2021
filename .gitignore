@@ -8,6 +8,8 @@
 *.suo
 *.exe
 *.o
+*.exe
+*.o
 *.user
 *.userosscache
 *.sln.docstates
