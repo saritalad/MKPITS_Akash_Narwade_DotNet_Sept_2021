@@ -2,7 +2,8 @@
 /*preprocessor directive */ 
 #include<stdio.h>
 #include<conio.h>
-/* global variable declaration */
+/* global variable declaration READ qyestion carefully and make correction
+Q4	WAP to find sum of numbers divisible by 7 from 1 to 100*/
 int main()
 {
 int a,b,sum;
